@@ -9352,7 +9352,7 @@ pad-component@0.0.1:
   resolved "https://registry.yarnpkg.com/pad-component/-/pad-component-0.0.1.tgz#ad1f22ce1bf0fdc0d6ddd908af17f351a404b8ac"
   integrity sha1-rR8izhvw/cDW3dkIrxfzUaQEuKw=
 
-"paho-mqtt@github:eclipse/paho.mqtt.javascript#master":
+paho-mqtt@eclipse/paho.mqtt.javascript#master:
   version "1.1.0"
   resolved "https://codeload.github.com/eclipse/paho.mqtt.javascript/tar.gz/9b761defeeb4a627db31d92ae1b0ca91b44b226e"
 
@@ -10312,10 +10312,10 @@ react-native-modal@^7.0.2:
     prop-types "^15.6.1"
     react-native-animatable "^1.2.4"
 
-react-native-navigation@^2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-2.8.0.tgz#30b25a0744dda7c04d29bb5c8e8c3af911627d51"
-  integrity sha512-Q/Np5XsgB7CPfOuilC2+qLouLMc0WqqsfNW+S669oxYRzQ9gB5BgUxLnyYBg/Buhv2FZrWatv62VguFHWJ0BaA==
+react-native-navigation@^2.11.0:
+  version "2.11.0"
+  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-2.11.0.tgz#a6ceb4ed425f792edb461b8d5a3d0ab62236ab5f"
+  integrity sha512-HDZhcyBCrHP0tJBZaf3qE6VfQhOfKlZ2SmP5Fvq2NdOxpGbKPbCdZpgZrb8XMZ2qmDqWhFbRZqR0gi1Bhp4iwA==
   dependencies:
     hoist-non-react-statics "3.x.x"
     lodash "4.17.x"
