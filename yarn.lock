@@ -4417,10 +4417,10 @@ detect-port@^1.2.3:
     address "^1.0.1"
     debug "^2.6.0"
 
-detox@^10.0.5:
-  version "10.0.5"
-  resolved "https://registry.yarnpkg.com/detox/-/detox-10.0.5.tgz#c7e4ab78fbffd2fcaaa29d0eb90673d4939a41f0"
-  integrity sha512-imUTxCqlPahmkDMzuqJAKuV9VJLRfPYg4KPzlB/hIAdl8IMIcKmKmWJcl9jxiMfc8GQ6oG++zvLBTM/dX04qpg==
+detox@^10.0.7:
+  version "10.0.7"
+  resolved "https://registry.yarnpkg.com/detox/-/detox-10.0.7.tgz#559e0239ae10a1bada24426608c02cb32a73e15d"
+  integrity sha512-oHunX6M+5qy01Sy+o0MGInOkFpROKFfDXU7Z9aUywlXSjNxCUHFUc4J/mgJdFYTogA2W3Md+Mt4kc89+nwqztQ==
   dependencies:
     bunyan "^1.8.12"
     bunyan-debug-stream "^1.1.0"
@@ -9352,7 +9352,7 @@ pad-component@0.0.1:
   resolved "https://registry.yarnpkg.com/pad-component/-/pad-component-0.0.1.tgz#ad1f22ce1bf0fdc0d6ddd908af17f351a404b8ac"
   integrity sha1-rR8izhvw/cDW3dkIrxfzUaQEuKw=
 
-"paho-mqtt@github:eclipse/paho.mqtt.javascript#master":
+paho-mqtt@eclipse/paho.mqtt.javascript#master:
   version "1.1.0"
   resolved "https://codeload.github.com/eclipse/paho.mqtt.javascript/tar.gz/9b761defeeb4a627db31d92ae1b0ca91b44b226e"
 
